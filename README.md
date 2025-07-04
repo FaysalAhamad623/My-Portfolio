@@ -47,10 +47,5 @@ Welcome to my personal developer portfolio website built with **React JS** and *
 
 ---
 
-## 📚 How to Run Locally
 
-```bash
-git clone https://github.com/FaysalAhamad623/My-Portfolio
-cd your-portfolio
-npm install
-npm run dev
+
