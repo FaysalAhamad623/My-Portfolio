@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio website built with **React JS** and *
 
 ## 🚀 Live Website
 
-🌐 [mdfaysal.com](https://mdfaysal.com) *(or your final deployed URL)*
+🌐 [mdfaysal.com](https://mdfaysal.com)
 
 ---
 
@@ -15,8 +15,8 @@ Welcome to my personal developer portfolio website built with **React JS** and *
 - **Tailwind CSS**
 - **React Router DOM**
 - **React Icons**
-- **Framer Motion** *(optional for animation)*
-- **localStorage** (for saving form data or project states if needed)
+- **Framer Motion** 
+- **localStorage** 
 
 ---
 
@@ -37,8 +37,7 @@ Welcome to my personal developer portfolio website built with **React JS** and *
 
 ## 📷 Preview
 
-![Portfolio Preview](./preview.png)  
-*(Screenshot or GIF preview of the live website)*
+![Portfolio Preview](https://i.ibb.co/tMD0s9BD/hero.png)  
 
 ---
 
